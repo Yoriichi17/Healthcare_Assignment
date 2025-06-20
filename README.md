@@ -38,7 +38,7 @@ cd healthcare-backend
 
 ```bash
 python -m venv venv
-venv/bin/activate  # or `venv\Scripts\activate` on Windows
+venv\Scripts\activate
 ```
 
 ### 3. Install dependencies
