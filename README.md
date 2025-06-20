@@ -1,6 +1,3 @@
----
-
-````
 #  Django Healthcare Backend
 
 This is a secure RESTful API backend for a healthcare application built using **Django**, **Django REST Framework**, **PostgreSQL**, and **JWT authentication**.
@@ -140,8 +137,6 @@ healthcare/
 ├── manage.py
 └── .env
 ```
-
----
 
 ##  Postman Testing
 https://www.postman.com/maintenance-cosmologist-12845390/workspace/anirudh/collection/31320871-379b38eb-f7f0-4b43-adbe-d8a74c3f49bf?action=share&creator=31320871
