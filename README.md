@@ -30,8 +30,8 @@ This is a secure RESTful API backend for a healthcare application built using **
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/your-username/healthcare-backend.git
-cd healthcare-backend
+git clone https://github.com/Yoriichi17/Healthcare_Assignment.git
+cd /Healthcare_Assignment
 ````
 
 ### 2. Create and activate a virtual environment
